@@ -13,4 +13,4 @@ anwer = function_with_arrays((arr.array("i", [1,2,3,4,5])))
 print(anwer
 
 #i used a list to get all numbers between the negative lengh of array and 2 * the lenth of array
-#with that, i checked and gave back all other values except those that in the actual array using loops
+#with that, i checked and gave back all other values except those that in the actual array using loops, may not be included
